@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">• 🎓 Graduado em Engenharia Mecãnia pela Universidade Federal da Paraíba (UFPB)<br><br>• 📊 Estágio realizado com foco em Análise de Dados de manutenção  uma indústria gráfica<br><br>• 💻 Adquirindo conhecimentos sobre Data Science e Inteligência Artificial</p>
+<p align="left">• 🎓 Graduated in Mechanical Engineering from the Federal University of Paraíba (UFPB)<br><br>• 📊 Internship focused on Maintenance Data Analysis at a printing industry<br><br>• 💻 Acquiring knowledge in Data Science and Artificial Intelligence</p>
 
 ###
 
@@ -15,7 +15,7 @@
 ###
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=matheusbnc&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=gruvbox&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=matheusbnc&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=gotham&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
 ###
