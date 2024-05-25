@@ -16,7 +16,6 @@
 
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=matheusbnc&repo=Ecommerce-Sales-Analysis&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/matheusbnc/Ecommerce-Sales-Analysis)
 
-<p align="left">Projeto de Desenvolvimento de uma Aplicação para Análise de Dados de uma E-Commerce</p>
 
 ###
 
