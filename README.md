@@ -18,7 +18,7 @@
   <a href="https://github.com/matheusbnc/Ecommerce-Sales-Analysis">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=matheusbnc&repo=Ecommerce-Sales-Analysis&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF" height="150" alt="Repo Card" />
   </a>
-  <a href="https://github.com/matheusbnc/Another-Project">
+  <a href="https://github.com/matheusbnc/Langchain-Gemini-App">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=matheusbnc&repo=Langchain-Gemini-App&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF" height="150" alt="Repo Card" />
   </a>
 </div>
