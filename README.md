@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">• 🎓 Graduated in Mechanical Engineering from the Federal University of Paraíba (UFPB)<br><br>• 📊 Internship focused on Maintenance Data Analysis at a printing industry<br><br>• 💻 Acquiring knowledge in Data Science and Artificial Intelligence</p>
+<p align="left">• 🎓 Graduated in Mechanical Engineering from the Federal University of Paraíba (UFPB)<br><br>• 📊 Internship focused on Maintenance Data Analysis at a printing industry<br><br>• 💻 I currently work using SQL, Power BI and Python to extract, process and model data, in addition to developing advanced visualizations in dashboards.</p>
 
 ###
 
