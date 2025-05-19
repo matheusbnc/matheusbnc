@@ -16,41 +16,32 @@
 
 ###
 
-<h2 align="left">Projects</h2>
+<h2 align="left">Tools & Technologies</h2>
 
 ###
 
 <div align="left">
-  <a href="https://github.com/matheusbnc/Ecommerce-Sales-Analysis">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=matheusbnc&repo=Ecommerce-Sales-Analysis&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF" height="150" alt="Repo Card" />
-  </a>
-  <a href="https://github.com/matheusbnc/Langchain-Gemini-App">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=matheusbnc&repo=Langchain-Gemini-App&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF" height="150" alt="Repo Card" />
-  </a>
-</div>
-
-###
-
-<h2 align="left">Techs</h2>
-
-###
-
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusbnc&layout=compact&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF" height="150" alt="languages graph"  />
-</div>
-
-###
-
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
+  <img src="https://skillicons.dev/icons?i=py" height="40" alt="Python" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="postgresql logo"  />
+  <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="PostgreSQL" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="microsoftsqlserver logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="SQL Server" />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/git/F05032" height="40" alt="git logo"  />
+  <img src="https://cdn.simpleicons.org/git/F05032" height="40" alt="Git" />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/github/181717" height="40" alt="github logo"  />
+  <img src="https://cdn.simpleicons.org/github/181717" height="40" alt="GitHub" />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/amazonaws/232F3E" height="40" alt="AWS" />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/snowflake/29B5E8" height="40" alt="Snowflake" />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/apacheairflow/017CEE" height="40" alt="Apache Airflow" />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/dbt/F25036" height="40" alt="dbt" />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/databricks/E32C1E" height="40" alt="Databricks" />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/powerbi/F2C811" height="40" alt="Power BI" />
 </div>
 
 ###
@@ -61,9 +52,9 @@
 
 <div align="left">
   <a href="https://www.linkedin.com/in/matheusbnc/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" />
   </a>
   <a href="https://www.instagram.com/_matheusbnc" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo" />
   </a>
 </div>
