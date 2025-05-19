@@ -27,12 +27,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="SQL Server" />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/git/F05032" height="40" alt="Git" />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/github/181717" height="40" alt="GitHub" />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/amazonaws/232F3E" height="40" alt="AWS" />
-  <img width="12" />
   <img src="https://cdn.simpleicons.org/snowflake/29B5E8" height="40" alt="Snowflake" />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/apacheairflow/017CEE" height="40" alt="Apache Airflow" />
@@ -40,8 +34,6 @@
   <img src="https://cdn.simpleicons.org/dbt/F25036" height="40" alt="dbt" />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/databricks/E32C1E" height="40" alt="Databricks" />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/powerbi/F2C811" height="40" alt="Power BI" />
 </div>
 
 ###
