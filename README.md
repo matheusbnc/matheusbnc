@@ -6,7 +6,13 @@
 
 ###
 
-<p align="left">• 🎓 Graduated in Mechanical Engineering from the Federal University of Paraíba (UFPB)<br><br>• 📊 Internship focused on Maintenance Data Analysis at a printing industry<br><br>• 💻 I currently work using SQL, Power BI and Python to extract, process and model data, in addition to developing advanced visualizations in dashboards.</p>
+<p align="left">
+• 👨‍💻 Data professional with solid experience in Data Analysis and Data Engineering, working across the entire data lifecycle — from extraction and transformation to modeling and visualization.<br><br>
+• 🧠 Proficient in SQL, Power BI, and Python, with a strong focus on data-driven solutions that support decision-making and improve business efficiency.<br><br>
+• 📜 Microsoft Certified: Fabric Analytics Engineer Associate<br><br>
+• 📚 Currently pursuing a post-graduate specialization in Analytics Engineering, with practical experience in modern tools and architectures such as dbt, Apache Airflow, Airbyte, Snowflake, Databricks, and AWS.<br><br>
+• ⚙️ I build scalable ETL pipelines, design cloud-based data warehouses, and implement robust data models for analytics and BI.
+</p>
 
 ###
 
@@ -61,5 +67,3 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
   </a>
 </div>
-
-###
